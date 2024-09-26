@@ -1,0 +1,17 @@
+# Student Card Reader (Doshisha Univ.)
+
+## Summary
+
+Get StudentID and MailAddress from Student ID Card of Doshisha Univ
+Using PaSoRi and Windows or RaspberryPi
+
+## How to use
+
+1. To enable the use of PaSoRi, follow the steps in the following file.
+    - [Enable PaSoRi](/docs/pasori.md)
+
+1. Touch student card to PaSoRi, you can get the StudentID and MailAddress.
+
+## How to use in other purpose
+
+Change the range of data being extracted in function "on_connect".
